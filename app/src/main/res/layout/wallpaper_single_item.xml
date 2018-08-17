@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.CardView android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="16dp"
+    android:layout_margin="16dp">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#F5F6F7"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/idImage_onlineFrag"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_launcher_background"/>
+
+        <TextView
+            android:id="@+id/idName_onlineFrag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="helloo"
+            android:textSize="18dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="2dp"
+            android:textColor="@color/tabsColor"
+            />
+        <ImageView
+            android:id="@+id/idDeleteImage_onlineFrag"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:src="@drawable/ic_delete_black_24dp"
+            android:paddingBottom="5dp"
+            android:textColor="@color/tabsColor"
+            android:background="#F5F6F7"
+            />
+
+    </LinearLayout>
+
+
+</android.support.v7.widget.CardView>
+

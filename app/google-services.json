@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "417931010484",
+    "firebase_url": "https://ngtc-21440.firebaseio.com",
+    "project_id": "ngtc-21440",
+    "storage_bucket": "ngtc-21440.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417931010484:android:b3e6e3dcfb5071a7",
+        "android_client_info": {
+          "package_name": "invenz.roy.ngtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417931010484-n28a7vhs0fflf2gkn9r90uhrodbmjvtq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "invenz.roy.ngtc",
+            "certificate_hash": "93eb718271ed4e21547d8509297f4695db5932dc"
+          }
+        },
+        {
+          "client_id": "417931010484-fq6jhihfe0op84n48kt0ld59cgkagovr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdZsuCB9wZrQb07qmCw5MlyGkSy0Vhwrs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417931010484-fq6jhihfe0op84n48kt0ld59cgkagovr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
